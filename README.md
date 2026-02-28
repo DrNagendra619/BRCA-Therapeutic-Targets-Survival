@@ -34,7 +34,5 @@ The analysis of the top 10 identified genes yielded the following prognostic dat
 
 ## Repository Contents
 * `GEPIA2_SurvivalAnalysis_Top10_BRCA.pdf`: The complete exported document containing the 10 Kaplan-Meier survival plots generated from GEPIA2.
-* *(Add any other relevant script files, Cytoscape network files, or datasets here)*
-
 ## Author
 **Nagendra** GitHub: [@DrNagendra619](https://github.com/DrNagendra619)
